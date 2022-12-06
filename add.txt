@@ -1,0 +1,11 @@
+<?php 
+//creating a function
+function add($a,$b)
+{
+$c=$a+$b;
+echo $c;
+}
+echo "sum of 2  numbers is";
+//calling a function
+add(1, 2);
+?>
